@@ -4,8 +4,8 @@ Design of a program for an ESP32 that acquires data from an RP-C18.3-ST force se
 
 ## Installation
 
-* Install [Micropython](https://micropython.org/download/ESP32_GENERIC/)
-* Upload the following files to ESP32 (you can use [Thonny](https://thonny.org/) or [esptool](https://pypi.org/project/esptool/))
+* Install [Micropython](https://micropython.org/download/ESP32_GENERIC/) (you can use [Thonny](https://thonny.org/) or [esptool](https://pypi.org/project/esptool/))
+* Upload the following files to ESP32
   * ```main.py```
   * ```ssd1306.py```
   * ```gfx.py```
