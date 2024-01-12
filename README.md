@@ -19,6 +19,8 @@ Design of a program for an ESP32 that acquires data from an RP-C18.3-ST force se
 * You can configure an access point from a cell phone or computer with internet to automatically synchronize the time, which must have the SSID and password the same as those programmed in ```main.py```.
 Otherwise, esp32 will create an access point with the same credentials.
 * The IP address will always be displayed on the screen so you can access the website.
+* Web page preview
+![Sketch](https://github.com/AlexXGAV/ESP32-Force-Sensor/blob/main/images/screenshot-192.168.4.1.png?raw=true)
 
 ## License
 
