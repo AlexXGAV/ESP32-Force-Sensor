@@ -343,6 +343,8 @@ def start_web_server():
                 try:
                     # Borrar la base de datos (archivo sensor_data)
                     os.remove(FILENAME)
+                    with open(FILENAME_ID, 'w') as file:
+                        file.write(str(0))
                     print("Base de datos borrada")
                     
                     # Respuesta de confirmación
