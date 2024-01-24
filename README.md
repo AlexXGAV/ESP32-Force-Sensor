@@ -22,6 +22,10 @@ Otherwise, esp32 will create an access point with the same credentials.
 * Web page preview
 ![Sketch](https://github.com/AlexXGAV/ESP32-Force-Sensor/blob/main/images/screenshot-192.168.4.1.png?raw=true)
 
+## Module case model
+### For laser cutting
+[3D assembly preview](https://a360.co/3UcwPg6)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
